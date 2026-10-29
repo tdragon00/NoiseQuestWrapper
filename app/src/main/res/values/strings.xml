@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Noisequest</string>
+    <string name="enter_instance_url">Enter Quest Board Instance URL</string>
+    <string name="url_hint">https://quests.actropolis.org</string>
+    <string name="save_and_load">Save and Load</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="change_instance">Change Instance</string>
+    <string name="invalid_url">Please enter a valid URL</string>
+    <string name="url_saved">Instance URL saved</string>
+    <string name="no_url_set">No instance URL set. Please configure it.</string>
+</resources>
